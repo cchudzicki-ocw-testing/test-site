@@ -24,5 +24,6 @@
     "website": "test-site"
   },
   "learning_resource_types": [],
-  "site_uid": "c2e21b9f-f685-412e-82ee-2b9ac66cae57"
+  "site_uid": "c2e21b9f-f685-412e-82ee-2b9ac66cae57",
+  "site_short_id": "test-site"
 }
