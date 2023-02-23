@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/test-site/1sMrkr4fewGV1HONp8ucELdVjuMQdvvN5/test.mp4
+file: /courses/test-site/test_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
