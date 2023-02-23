@@ -1,0 +1,9 @@
+leftnav:
+- identifier: fa4c654e-a1ed-42e9-9fc2-42ea2653fdb5
+  name: Test Page
+  url: /pages/test-page
+  weight: 10
+- identifier: b6761bfe-3167-4fe7-bc26-71eb8fc222c5
+  name: Test Video
+  url: /resources/test
+  weight: 20
