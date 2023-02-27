@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: example.mp4
-uid: bf62ed79-5e33-4b4f-93c4-3314fc2cee42
+uid: 41329681-11db-49b4-acb0-7c3b17b47e29
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

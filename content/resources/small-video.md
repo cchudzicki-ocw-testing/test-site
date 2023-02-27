@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: small-video.mp4
-uid: 0b6245f7-968e-4443-b22b-aa7e691f2d6d
+uid: 72e95495-b7a4-4d22-aebb-a322314e49c8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

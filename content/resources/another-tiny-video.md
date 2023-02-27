@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: another-tiny-video.mp4
-uid: b1039aba-7830-480d-b474-11a1e111832e
+uid: 36b2be16-d3bb-4657-8282-6a23ea69c277
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
