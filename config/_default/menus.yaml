@@ -1,0 +1,17 @@
+leftnav:
+- identifier: fa4c654e-a1ed-42e9-9fc2-42ea2653fdb5
+  name: Page 1
+  url: /pages/test-page
+  weight: 10
+- identifier: 34563982-b8da-4e38-bd4e-de35d18f9496
+  name: Tiny Video
+  url: /resources/tiny-video
+  weight: 20
+- identifier: d99e3a61-26d1-4554-aa26-46b269619172
+  name: Another Video
+  url: /resources/another-tiny-video
+  weight: 30
+- identifier: 98b1e79a-d0a9-44be-aaea-5e9917c55d0a
+  name: Small Video
+  url: /resources/small-video
+  weight: 40
