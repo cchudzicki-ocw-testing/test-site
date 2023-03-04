@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '21A.461F21 What is Capitalism? Lecture Slides: Racial Capitalism   '
-uid: f3f1b795-368d-4d4a-8cfa-53d22c307827
+uid: a32c2102-d9cc-4e99-9f5c-0b532b5803d5
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

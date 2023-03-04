@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: example_captions.vtt
-uid: 164cbc38-51f8-4558-a5eb-19245d628c3c
+uid: ceb97c6a-2a93-4158-a0b4-3144257802f2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

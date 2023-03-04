@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: another-tiny-video_captions.vtt
-uid: 1db4cf3d-de79-453e-9583-9c4655e7cb65
+uid: ea84f7f3-77a3-41ba-91b0-59486d7c9a76
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
