@@ -7,3 +7,7 @@ leftnav:
   name: Test Video
   url: /resources/test
   weight: 20
+- identifier: 52d92079-8108-48a9-9219-61e93dd08cbf
+  name: Section Page Fonts
+  url: /pages/section-page-font
+  weight: 30
