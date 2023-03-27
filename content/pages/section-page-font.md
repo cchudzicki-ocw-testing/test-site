@@ -21,8 +21,6 @@ Pararagraph Pararagraph Pararagraph Pararagraph Pararagraph Pararagraph.
 
 ### Heading 2
 
- 
-
 Pararagraph Pararagraph Pararagraph Pararagraph Pararagraph Pararagraph.
 
 - Pararagraph 
